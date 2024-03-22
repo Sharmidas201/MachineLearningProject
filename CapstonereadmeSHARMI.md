@@ -1,6 +1,6 @@
 ## Overview
 
-This code is a Python script designed for data preprocessing and classification using the Random Forest algorithm. It is intended for a supervised machine learning task where you have labeled data to train and evaluate a predictive model. The code includes steps for handling missing data, encoding categorical features, scaling numeric features, training a Random Forest classifier, and making predictions.\
+This code is a Python script designed for data preprocessing and classification using the Random Forest algorithm. It is intended for a supervised machine learning task where you have labeled data to train and evaluate a predictive model. The code includes steps for handling missing data, encoding categorical features, scaling numeric features, training a Random Forest classifier, and making predictions.
 
 ## Usage
 
@@ -12,7 +12,7 @@ To use this code, follow these steps:
 
 ### 2. Libraries and Dependencies
 
-Making sure we have the necessary libraries installed. You can use the following commands to install them:\
+Making sure we have the necessary libraries installed. You can use the following commands to install them.
 
 
 pip install pandas numpy scikit-learn joblib
@@ -20,7 +20,7 @@ pip install pandas numpy scikit-learn joblib
 
 ### 3. Running the Script
 
-Execute the script by running the Python code provided. You can use an integrated development environment (IDE) or run it from the command line using:\
+Execute the script by running the Python code provided. You can use an integrated development environment (IDE) or run it from the command line using:
 
 python your_script.py
 
@@ -60,4 +60,3 @@ The script will perform the following data preprocessing steps:
 
 - The predictions, along with corresponding order IDs, will be saved to a file named "classification_results.txt."
 
-}
